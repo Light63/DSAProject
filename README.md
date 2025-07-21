@@ -32,8 +32,19 @@ The following features were used for the Student Prediction Model
  Number of Sample Question Papers Practised: This is the number of practice questions or mock exams the student has completed. Practising questions can help improve exam readiness and
  confidence.
 
+ ---
+
 
 ### Technologies/Tools used
+
+ Python– for programming, Pandas– for data cleaning and analysis, NumPy– for numerical
+ 
+ Scikit-learn– for machine learning modelling, Streamlit– to build the backend of the web application
+ 
+ and HTML, CSS, JavaScript– to create the user interface
+
+ ---
+ 
 ### Exploratory Data Analysis(EDA)
 ### Data Visualisation
 ### AI/ML
