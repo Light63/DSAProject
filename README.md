@@ -32,6 +32,8 @@ The following features were used for the Student Prediction Model
  Number of Sample Question Papers Practised: This is the number of practice questions or mock exams the student has completed. Practising questions can help improve exam readiness and
  confidence.
 
+ Performance Index: This is the student's score after each successful term or session. A score of 70 and above shows the student performed excellently and therefore has an A grade.
+
  ---
 
 
@@ -46,6 +48,8 @@ The following features were used for the Student Prediction Model
  ---
  
 ### Exploratory Data Analysis(EDA)
+
+
 ### Data Visualisation
 ### AI/ML
 ### Results
