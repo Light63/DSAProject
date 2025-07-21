@@ -7,12 +7,32 @@ This project is about building a machine learning model to predict student perfo
 
 ### Problem Statement
 
-Different students have unique, peculiar strengths, weaknesses, levels of assimilation, and study styles. Many students struggle to perform well on their final exams, and it can be hard for teachers to know which students need extra help. This project aims to build a machine learning model that can predict a student’s final exam score by using data such as their study time, sleep hours, past grades, etc. By making early predictions, schools and teachers can better support students and improve their overall performance.
+Different students have unique, peculiar strengths, weaknesses, levels of assimilation, and study styles. Many students struggle to perform well on their final exams, and it can be challenging for teachers to identify which students require extra help. This project aims to develop a machine learning model that predicts a student’s final exam score using data such as study time, sleep hours, past grades, and other relevant factors. By making early predictions, schools and teachers can better support students and improve their overall performance.
 
 ---
 
 ### Data Sources
+
+ A dataset of 10,000 instances and 6 features was obtained from Kaggle.
+
+ ---
+ 
 ### Key Features for the Students' Performance Prediction
+
+The following features were used for the Student Prediction Model
+
+ Hours Studied: This is the number of hours a student spends studying daily or weekly. More study time can lead to better understanding and higher performance.  
+ 
+ Previous Scores: It helps show the student’s academic history and likely future performance. It refers to the student’s past exam or test results
+ 
+ Extracurricular Activities: This includes sports, clubs, or other non-academic activities the student participates in. These activities can affect how much time and energy a student has  for studying.
+
+ Sleep Hours: This is the average number of hours the student sleeps each day. Proper sleep helps with focus, memory, and overall performance.
+ 
+ Number of Sample Question Papers Practised: This is the number of practice questions or mock exams the student has completed. Practising questions can help improve exam readiness and
+ confidence.
+
+
 ### Technologies/Tools used
 ### Exploratory Data Analysis(EDA)
 ### Data Visualisation
